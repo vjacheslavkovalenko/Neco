@@ -1,3 +1,6 @@
 [submodule "Neco_Lesson_1"]
 	path = Neco_Lesson_1
 	url = https://github.com/vjacheslavkovalenko/Neco_Lesson_1.git
+[submodule "Neco_Lesson_2"]
+	path = Neco_Lesson_2
+	url = https://github.com/vjacheslavkovalenko/Neco_Lesson_2.git
